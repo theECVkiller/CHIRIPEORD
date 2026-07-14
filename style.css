@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    background: #000;
+    color: white;
+}
+
+div {
+    display: flex;
+    height: 100vh;
+    align-content: center;
+}
+
+h1 {
+    margin: auto;
+}
